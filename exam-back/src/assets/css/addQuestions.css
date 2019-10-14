@@ -1,0 +1,20 @@
+.content {
+  border-radius: 15px;
+  width: 100%;
+  height: quto;
+  background: #fff;
+  box-sizing: border-box;
+  padding: 20px 20px;
+}
+.ant-layout-content {
+  background: #eee;
+}
+input {
+  max-width: 400px;
+}
+.content > div {
+  margin-bottom: 20px;
+}
+.for-container {
+  height: 250px !important;
+}

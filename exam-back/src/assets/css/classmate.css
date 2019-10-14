@@ -1,0 +1,24 @@
+.classmate{
+  width: 100%;
+  height: 100%;
+
+}
+.classmate-header{
+  width: 100%;
+  height: 20%;
+  background: #fff;
+}
+.classmate-header ul{
+  display: flex;
+  
+}
+.classmate-header ul li{
+  width: 30%;
+  margin-right: 10px;
+}
+.classmate-content{
+  width: 100%;
+  height: 80%;
+  overflow: auto;
+  
+}

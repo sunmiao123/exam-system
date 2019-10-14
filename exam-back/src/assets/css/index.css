@@ -1,0 +1,56 @@
+* {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+	box-sizing: border-box;
+	list-style: none;
+}
+
+html,
+body,
+#root {
+	width: 100%;
+	height: 100%;
+}
+
+.wrap {
+	width: 100%;
+	height: 100%;
+}
+.login-wrap {
+	width: 500px;
+	margin: 0 auto;
+}
+
+.ant-layout {
+	width: 100%;
+	height: 100%;
+}
+
+.header-logo {
+	width: 200px;
+	height: 100%;
+}
+.header-logo img {
+	height: 60px;
+}
+.avatar-uploader {
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+	display: inline-block;
+}
+.avatar-uploader > .ant-upload {
+	width: 30px !important;
+	height: 30px !important;
+	border: 0 !important;
+	border-radius: 50% !important;
+	background: #ccc;
+	z-index: 9;
+}
+.avatar-img {
+	width: 100%;
+	height: 100%;
+	border-radius: 50%;
+}

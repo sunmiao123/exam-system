@@ -1,0 +1,33 @@
+.add-exam-container {
+	width: 100%;
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	/* box-sizing: border-box; */
+}
+
+.add-exam-title {
+	height: 85px;
+	line-height: 85px;
+}
+
+.add-exam-content {
+	flex: 1;
+	padding: 20px;
+	width: 850px;
+	display: flex;
+	flex-direction: column;
+	background: #fff;
+	border-radius: 14px;
+}
+/* .ant-form-item {
+	height: 65px;
+} */
+.startTime {
+	width: 44px;
+	width: 200px;
+}
+/* .ant-input {
+	width: 200px;
+	margin-right: 60px;
+} */

@@ -1,0 +1,18 @@
+#root {
+	width: 100%;
+	height: 100%;
+}
+.Login {
+	width: 100%;
+	height: 100%;
+	background-image: url(/public/night.jpg);
+	background-size: cover;
+	background-position: center center;
+}
+.Fom {
+	position: fixed;
+	left: 35%;
+	top: 35%;
+	width: 400px;
+	height: 400px;
+}
